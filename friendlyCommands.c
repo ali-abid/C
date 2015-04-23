@@ -1,1 +1,0 @@
-//Here list of friendly commands:
