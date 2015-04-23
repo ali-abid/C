@@ -1,5 +1,10 @@
 eclipse.preferences.version=1
+editor_folding_default_headers=false
+editor_folding_preprocessor_enabled=true
+editor_folding_statements=true
+sourceHoverBackgroundColor=255,255,225
 spelling_locale=en_GB
 spelling_locale_initialized=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true
+wizard.preferred.toolchains=cdt.managedbuild.toolchain.gnu.mingw.exe.debug
