@@ -1,3 +1,4 @@
- working-directory/.metadata/*
- working-directory/Client_Server/.cproject
- working-directory/Client_Server/.project
+ 
+working-directory/.metadata/*
+working-directory/Client_Server/.cproject
+working-directory/Client_Server/.project
