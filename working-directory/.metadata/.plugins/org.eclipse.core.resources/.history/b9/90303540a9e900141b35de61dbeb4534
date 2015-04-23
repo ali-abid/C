@@ -1,0 +1,18 @@
+/*
+ * HelloWorld.cpp
+ *
+ *  Created on: 23 Apr 2015
+ *      Author: Ali
+ */
+
+#include "HelloWorld.h"
+
+HelloWorld::HelloWorld() {
+	// TODO Auto-generated constructor stub
+
+}
+
+HelloWorld::~HelloWorld() {
+	// TODO Auto-generated destructor stub
+}
+
