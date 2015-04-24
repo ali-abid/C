@@ -1,4 +1,4 @@
-#The C Language Basics
+﻿#The C Language Basics
 
 #Variables and Data Storage
 
@@ -33,8 +33,8 @@ http://www.equation.com/servlet/equation.cmd?fa=fortran
 https://www.youtube.com/watch?v=FQ4ToK9ry5U
 This video shows how to install the cpc-dev-tool-chain framework on Windows 7. Installation steps:
 
-1. Download and install 32bits cygwin from http://www.cygwin.com
-2. Install required packages inside cygwin, with this command:
+1. Download and install 64bits cygwin from http://www.cygwin.com
+2. Install required packages inside cygwin, with this command, following path will download all required header libraries:
 $ /path/to/setup-x86.exe -q -P git,make,patch,gcc,gcc-core,gcc-g++,wget­,bison,flex,libboost-devel,unrar,unzip,l­ibncurses-devel,ioperm
 3. Get cpc-dev-tool-chain from Github:
 $ git clone https://github.com/cpcitor/cpc-dev-tool-chain
